@@ -1,7 +1,7 @@
 # SA-2601
 iOS APP_SA-2601 technical support
 
-User instruction:
+User instruction: <br> 
 •	Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running) <br> 
 •	Chronograph controls: <br> 
 • Start: single press Volume Down <br> 
