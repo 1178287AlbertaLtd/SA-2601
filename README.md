@@ -3,13 +3,13 @@ iOS APP_SA-2601 technical support
 
 User instruction:
 
-•	Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running)
-•	Chronograph controls:
-• Start: single press Volume Down
-• Stop: single press Volume Down
-• Resume: single press Volume Down
-• Flyback: single press Volume Up (while running)
-• Reset: double press Volume Down (when stopped)
+• Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running) <br>
+• Chronograph controls: <br>
+• Start: single press Volume Down <br>
+• Stop: single press Volume Down <br>
+• Resume: single press Volume Down <br>
+• Flyback: single press Volume Up (while running) <br>
+• Reset: double press Volume Down (when stopped) <br>
 
 About Caliber SA-2601
 
