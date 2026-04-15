@@ -10,8 +10,7 @@ User instruction: <br>
 • Flyback: single press Volume Up (while running) <br> 
 • Reset: double press Volume Down (when stopped) <br> 
 
-
-About Cal. 2601
+About Cal. 2601 <br> 
 A design inspired by the timeless craftsmanship of Vallée de Joux.
  
 1. The Pursuit of Precision: Taming the Power
@@ -35,17 +34,16 @@ For technical inquiries or feedback: <br>
 Designed and developed in Calgary, Alberta. <br> 
 © 2026 Silva Arcana. All rights reserved. <br>
 
-用户指南
+用户指南 <br> 
+1.	GMT 指针前进一小时：在计时功能未启动状态下，双击音量上键 <br> 
+2.	计时功能操作: <br> 
+• 启动计时：单击音量下键 <br> 
+• 停止计时：再次单击音量下键 <br> 
+• 继续计时：再次单击音量下键 <br> 
+• 飞返计时：计时运行状态下，单击音量上键 <br> 
+• 计时归零：计时停止状态下，双击音量下键 <br> 
 
-1.	GMT 指针前进一小时：在计时功能未启动状态下，双击音量上键
-2.	计时功能操作：
-• 启动计时：单击音量下键
-• 停止计时：再次单击音量下键
-• 继续计时：再次单击音量下键
-• 飞返计时：计时运行状态下，单击音量上键
-• 计时归零：计时停止状态下，双击音量下键
-
-关于机芯2601
+关于机芯2601 <br> 
 一个向汝拉山谷的传统工艺致敬的作品
  
 1.追求精准：驯服动力 计时精度的极致，始于对能量的掌控。在传统机械机芯中，主发条释放的扭矩会随着动力耗尽而减弱。为了超越这一物理极限，Cal. 2601 模拟了高级制表界梦寐以求的“恒定动力擒纵系统”。通过驾驭微型钢丝的“压杆失稳”原理，我们将波动的能量转化为恒定的脉冲。这不仅是逻辑的胜利，更是对传统制表巅峰的数字致敬。
