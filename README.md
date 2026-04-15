@@ -1,64 +1,57 @@
 # SA-2601
-iOS APP_SA-2601 technical support
+### iOS App Technical Support & Documentation
 
-User instruction: <br> 
-•	Advance GMT hand by one hour: double-press Volume Up (when chronograph is not running) <br> 
-•	Chronograph controls: <br> 
-• Start: single press Volume Down <br> 
-• Stop: single press Volume Down <br> 
-• Resume: single press Volume Down <br> 
-• Flyback: single press Volume Up (while running) <br> 
-• Reset: double press Volume Down (when stopped) <br> 
+---
 
-About Cal. 2601 <br> 
-A design inspired by the timeless craftsmanship of Vallée de Joux.
- 
-1. The Pursuit of Precision: Taming the Power
-The quest for chronometric precision begins with the mastery of energy. In a traditional mechanical movement, the torque from the mainspring diminishes as it unwinds, leading to fluctuations in amplitude and inevitable timing errors. To transcend this inherent physical constraint, Cal. 2601 simulates the prestigious Constant-Force Escapement—a "holy grail" of haute horlogerie.
-This app presents an intricate visualization of the Buckling Force principle. By harnessing the elastic instability of a microscopic steel filament, the system converts erratic energy into a sequence of uniform, constant pulses. It is more than a feat of mechanical logic; it is a digital tribute to the pinnacle of traditional watchmaking.
- 
-2. Technical Insight: The Necessity of Constant Force
-•	The Power Loss Dilemma: A mainspring acts as a decompressing reservoir—torque peaks when fully wound but drops significantly as it nears exhaustion.
-•	Amplitude Fluctuation: This inconsistent energy flow causes the balance wheel's amplitude to vary, compromising isochronism.
-•	The Role of Constant Force: It functions as a secondary regulator, ensuring that the impulse delivered to the escapement remains steady, regardless of the mainspring's state.
- 
-3. The Physics of Buckling: Silicon & Steel Filaments
-Consider a microscopic, flexible filament. When compressed axially, it resists deformation until it reaches a Critical Load. Beyond this point, it undergoes Buckling. The brilliance of this mechanism lies in its constant output: once in a buckled state, the filament exerts a nearly uniform force throughout its motion, independent of input fluctuations. Cal. 2601 simulates this precise physical snap-and-release, providing a perfectly metered pulse to the oscillator.
- 
-4. Beyond the Physical Limits
-While the laws of classical physics make it nearly impossible to pair a filament-based constant force escapement with a rotating Tourbillon, digital technology knows no such bounds. In the real world, the rotation would destabilize the delicate buckling motion; in Cal. 2601, they coexist in perfect equilibrium. This app offers a unique window into a mechanical "impossibility," allowing you to explore a level of horological complexity that only digital craftsmanship can provide.<br>
+## 📖 User Instructions / 用户指南
 
-Contact & Support <br> 
-For technical inquiries or feedback: <br> 
-1178287albertaltd@gmail.com <br>
-Designed and developed in Calgary, Alberta. <br> 
-© 2026 Silva Arcana. All rights reserved. <br>
+### 1. GMT Function / GMT 指针
+* **Advance GMT hand by one hour**: 
+  * Double-press **Volume Up** (only when chronograph is NOT running).
+  * *在计时功能未启动状态下，双击音量上键可使 GMT 指针前进一小时。*
 
-用户指南 <br> 
-1.	GMT 指针前进一小时：在计时功能未启动状态下，双击音量上键 <br> 
-2.	计时功能操作: <br> 
-• 启动计时：单击音量下键 <br> 
-• 停止计时：再次单击音量下键 <br> 
-• 继续计时：再次单击音量下键 <br> 
-• 飞返计时：计时运行状态下，单击音量上键 <br> 
-• 计时归零：计时停止状态下，双击音量下键 <br> 
+### 2. Chronograph Controls / 计时功能操作
+* **Start / Stop / Resume (启动 / 停止 / 继续)**: 
+  * Single-press **Volume Down**.
+  * *单击音量下键。*
+* **Flyback (飞返计时)**: 
+  * Single-press **Volume Up** (while running).
+  * *计时运行状态下，单击音量上键。*
+* **Reset (计时归零)**: 
+  * Double-press **Volume Down** (when stopped).
+  * *计时停止状态下，双击音量下键。*
 
-关于机芯2601 <br> 
-一个向汝拉山谷的传统工艺致敬的作品
- 
-1.追求精准：驯服动力 计时精度的极致，始于对能量的掌控。在传统机械机芯中，主发条释放的扭矩会随着动力耗尽而减弱。为了超越这一物理极限，Cal. 2601 模拟了高级制表界梦寐以求的“恒定动力擒纵系统”。通过驾驭微型钢丝的“压杆失稳”原理，我们将波动的能量转化为恒定的脉冲。这不仅是逻辑的胜利，更是对传统制表巅峰的数字致敬。
- 
-2. 技术洞察：恒定动力的必要性
-•	动力流失困境： 主发条像一个减压水库，扭矩在满弦时达到顶峰，随之逐渐衰减。
-•	摆幅波动： 不稳定的能量流导致摆轮摆幅变化，破坏了等时性。
-•	恒定动力的角色： 它作为二次调节器，确保无论发条状态如何，传递至擒纵系统的动力始终如一。
- 
-3. 压杆失稳原理：硅与钢的律动 想象一根微型柔性细丝，受压时它会保持刚性，直到达到“临界载荷”并发生“屈曲”。这种机制的精妙之处在于：一旦进入屈曲状态，无论输入能量如何波动，细丝在运动范围内提供的力几乎是恒定的。Cal. 2601 精确模拟了这种弹跳与释放的过程，为振荡器提供完美的计量脉冲。
- 
-4. 超越物理极限 尽管经典物理法则使得“细丝恒定动力”与“旋转陀飞轮”的结合在现实中几乎无法实现（旋转会干扰精细的屈曲动作），但数字技术让这种不可能成为了可能。在 Cal. 2601 中，两者在完美的平衡中并存。我们为你打开了一扇窗，让你领略唯有数字匠心才能构建的机械奇迹。
- 
-联系方式和技术支持 <br> 
-技术支持与反馈，请发送邮件至: <br> 
-1178287albertaltd@gmail.com <br>
-Designed and developed in Calgary, Alberta. <br> 
-© 2026 Silva Arcana. All rights reserved.
+---
+
+## ⚙️ About Cal. 2601 / 关于机芯 2601
+*A design inspired by the timeless craftsmanship of Vallée de Joux.*
+*一个向汝拉山谷的传统工艺致敬的作品。*
+
+### 1. The Pursuit of Precision / 追求精准
+The quest for chronometric precision begins with the mastery of energy. Cal. 2601 simulates the prestigious **Constant-Force Escapement**. By harnessing the elastic instability of a microscopic steel filament (Buckling Force), the system converts erratic energy into constant pulses.
+计时精度的极致，始于对能量的掌控。Cal. 2601 模拟了高级制表界梦寐以求的“恒定动力擒纵系统”。通过驾驭微型钢丝的“压杆失稳”原理，我们将波动的能量转化为恒定的脉冲。
+
+### 2. Technical Insight / 技术洞察
+* **The Power Loss Dilemma**: Torque peaks when fully wound but drops significantly as it nears exhaustion.
+* **Amplitude Fluctuation**: Inconsistent energy flow causes the balance wheel's amplitude to vary.
+* **The Role of Constant Force**: It functions as a secondary regulator to ensure steady impulse.
+* **动力流失困境**：主发条扭矩在满弦时达到顶峰，随之逐渐衰减。
+* **摆幅波动**：不稳定的能量流导致摆轮摆幅变化。
+* **恒定动力的角色**：作为二次调节器，确保传递至擒纵系统的动力始终如一。
+
+### 3. The Physics of Buckling / 压杆失稳原理
+Consider a microscopic filament. When it reaches a **Critical Load**, it undergoes Buckling. Once in a buckled state, it exerts a nearly uniform force regardless of input fluctuations. 
+想象一根微型柔性细丝，达到“临界载荷”时发生“屈曲”。一旦进入屈曲状态，无论输入能量如何波动，细丝提供的力几乎是恒定的。
+
+### 4. Beyond the Physical Limits / 超越物理极限
+While pairing a filament-based constant force escapement with a rotating Tourbillon is nearly impossible in classical physics, Cal. 2601 allows them to coexist in perfect equilibrium through digital craftsmanship.
+尽管物理法则使得细丝恒定动力与旋转陀飞轮在现实中难以结合，但数字技术让这种不可能成为了可能。
+
+---
+
+## 📬 Contact & Support / 联系方式
+For technical inquiries or feedback, please contact:
+**1178287albertaltd@gmail.com**
+
+*Designed and developed in Calgary, Alberta.*
+*© 2026 Silva Arcana. All rights reserved.*
